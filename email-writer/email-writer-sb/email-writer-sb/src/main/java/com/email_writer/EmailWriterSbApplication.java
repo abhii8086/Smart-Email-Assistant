@@ -11,4 +11,3 @@ public class EmailWriterSbApplication {
 	}
 
 }
-//api key:AIzaSyCcZiKfD5sV-B42ApG7TMkYHu_Ika0JhRs
